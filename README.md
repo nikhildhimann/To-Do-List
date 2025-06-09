@@ -43,6 +43,6 @@ To-Do-List/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/To-Do-List.git
+   git clone https://github.com/nikhildhimann/To-Do-List.git
 
    
