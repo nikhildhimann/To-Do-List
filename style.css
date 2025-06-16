@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -6,7 +7,7 @@
   
   body {
     height: 100vh;
-    background: #f3f3f3;
+    background: #31307d;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +15,7 @@
   }
   
   .todo-container {
-    background: #fff;
+    background: #b5b8e3;
     padding: 2rem;
     border-radius: 12px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
